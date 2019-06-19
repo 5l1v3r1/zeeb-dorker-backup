@@ -12,3 +12,15 @@ Tools for your hacking activities 👊😎
 ### Requirements
 * cURL Library
 * PHP Version ^5.4.* or above
+
+### Installation and How to Use
+1. First, you must have installed GIT `sudo apt install git`
+2. Clone or download this repository `git clone https://github.com/ardzz/zeeb-dorker.git`
+3. Run the code `php main.php`
+4. Enter your dork then type `y` or up to you if you want to save the results
+5. Finally, type the name of the file to be saved
+
+### Screenshots
+![Screen shot](https://github.com/ardzz/zeeb-dorker/blob/master/Screenshots/Screenshot%20from%202019-06-19%2017-10-55.png?raw=true)
+![Screen shot](https://github.com/ardzz/zeeb-dorker/blob/master/Screenshots/Screenshot%20from%202019-06-19%2017-10-41.png?raw=true)
+![Screen shot](https://github.com/ardzz/zeeb-dorker/blob/master/Screenshots/Screenshot%20from%202019-06-19%2017-11-05.png?raw=true)
