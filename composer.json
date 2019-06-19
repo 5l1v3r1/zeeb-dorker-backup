@@ -1,0 +1,22 @@
+{
+    "name": "ardzz/zeeb-dorker",
+    "description": "Google Dorker",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ardhana",
+            "email": "ardzz@indoxploit.or.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "ardzz/http-request": "dev-master",
+        "kevinlebrun/colors.php": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "ZeebDorker\\": "App/"
+        }
+    }
+}
